@@ -1,0 +1,6 @@
+gradio==2.6.3
+jupyter==1.0.0
+requests==2.26.0
+seaborn==0.11.2
+sklearn==0.0
+tensorflow==2.5.0
